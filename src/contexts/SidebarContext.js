@@ -17,4 +17,4 @@ const SidebarProvider = ({children}) => {
   )
 }
 
-export default SidebarProvider;
+export default SidebarProvider
